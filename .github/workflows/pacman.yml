@@ -1,4 +1,4 @@
-name: Generate pacman animation
+name: Generate-pacman-game-from-github-contribution-grid
 
 on:
   schedule: # execute every 12 hours
@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@1.0.10.2
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/pacman-contribution-graph.svg?
@@ -32,3 +32,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  
