@@ -2,10 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotSoAbhinav&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=GitHub%20Stat's" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotSoAbhinav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="120" alt="languages graph"  />
-</div>
+![notsoabhinav's Stats](https://github-readme-stats.vercel.app/api?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![notsoabhinav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notsoabhinav&theme=dark&hide_border=true)
+![notsoabhinav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
