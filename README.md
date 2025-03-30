@@ -8,7 +8,7 @@
   <img height=180 align="middle" src="https://streak-stats.demolab.com?user=notsoabhinav&theme=dark&hide_border=true" />
 </a>
 <a>
-  <img height=100 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img height=100 align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
 
