@@ -2,13 +2,15 @@
 
 ###
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notsoabhinav&layout=compact&langs_count=8&card_width=320" />
+<a>
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=notsoabhinav&theme=dark&hide_border=true" />
 </a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 
-![notsoabhinav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notsoabhinav&theme=dark&hide_border=true)
+</a>
 
 
 ###
