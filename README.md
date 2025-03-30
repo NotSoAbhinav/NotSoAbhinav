@@ -2,10 +2,10 @@
 
 ###
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notsoabhinav&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ![notsoabhinav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notsoabhinav&theme=dark&hide_border=true)
