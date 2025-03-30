@@ -2,7 +2,7 @@
 
 ###
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a>
   <img height=150 align="right" src="https://streak-stats.demolab.com?user=notsoabhinav&theme=dark&hide_border=true" />
