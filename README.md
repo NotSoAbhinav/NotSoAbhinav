@@ -1,10 +1,15 @@
 <h2 align="left">Hi 👋! My name is Abhinav and I'm a Developer, from India</h2>
 
 ###
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-![notsoabhinav's Stats](https://github-readme-stats.vercel.app/api?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![notsoabhinav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notsoabhinav&theme=dark&hide_border=true)
-![notsoabhinav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 
 ###
 
