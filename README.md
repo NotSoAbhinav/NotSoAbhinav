@@ -42,6 +42,7 @@
 </div>
 
 ---
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21pZXd5bGtkczA5aDlpanJtN2cxeW42ejN1aXVneWhqNTFuMXhoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"  />
 
 <h3 align="center">🌐 Connect with Me</h3>
 
