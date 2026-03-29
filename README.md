@@ -1,84 +1,65 @@
-<h1 align="center">Hi 👋, I'm Abhinav Mishra</h1>
-<h3 align="center">Cybersecurity Enthusiast | Game Developer | Full-Stack Engineer</h3>
-
-<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21pZXd5bGtkczA5aDlpanJtN2cxeW42ejN1aXVneWhqNTFuMXhoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif" />
-
-<p align="left">
-🚀 Building secure systems, interactive experiences, and scalable web apps  
-🎯 Focused on Cybersecurity • Game Development • System Design  
-</p>
+<h2 align="left">Hi 👋, I'm Abhinav Mishra</h2>
+<h4 align="left">Developer | Game Dev • Web • Systems | India</h4>
 
 ---
 
-## 📊 GitHub Analytics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+</a>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=notsoabhinav&theme=tokyonight&hide_border=true" />
-</p>
+<img height="150" align="center" src="https://streak-stats.demolab.com?user=notsoabhinav&theme=dark&hide_border=true" />
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+<img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&theme=dark&hide_border=true&layout=compact" />
 
----
-
-## 🧠 About Me
-
-- 🎓 B.Tech CSE (Cybersecurity & Digital Forensics)  
-- 🔐 Working on phishing detection & cybersecurity awareness systems  
-- 🧪 Experience with ML models (Random Forest, rule-based detection)  
-- 🎮 Game development using Unity & Godot  
-- ⚡ Fast learner with strong problem-solving mindset  
+<br clear="both" />
 
 ---
 
-## 💻 Tech Stack
+<h3 align="center">💻 Tech Stack</h3>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=unity,godot,cpp,c,python,js,ts,react,nextjs,nodejs,mysql" />
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+</div>
 
 ---
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21pZXd5bGtkczA5aDlpanJtN2cxeW42ejN1aXVneWhqNTFuMXhoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif"  />
 
-## 🚀 Featured Projects
+<h3 align="center">🌐 Connect with Me</h3>
 
-- 🔐 **Phishing Detection System**  
-  → ML + rule-based hybrid system for detecting malicious URLs  
-
-- 🌐 **Cyber Awareness Platform**  
-  → Interactive training modules for users  
-
-- 🎮 **Game Projects (Unity/Godot)**  
-  → Gameplay mechanics, systems, and optimization  
-
----
-
-## 🔭 Currently Working On
-
-- Advanced phishing detection using ML + heuristics  
-- Real-world cybersecurity awareness platform  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhinav-mishra-9678a1256/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhinav-mishra-9678a1256/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48"/>
   </a>
-  <a href="https://x.com/NotSoAbhinavx">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+  <a href="https://x.com/NotSoAbhinavx" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48"/>
   </a>
-  <a href="https://www.instagram.com/abhinav.api/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  <a href="https://www.instagram.com/abhinav.api/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Graph
+<h3>📈 Contribution Graph</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NotSoAbhinav/NotSoAbhinav/output/snake.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/NotSoAbhinav/NotSoAbhinav/output/snake.svg" alt="Contribution Snake" />
