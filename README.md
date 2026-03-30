@@ -52,15 +52,19 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhinav-mishra-9678a1256/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/>
-  </a>
-  <a href="https://x.com/NotSoAbhinavx" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45"/>
-  </a>
-  <a href="https://www.instagram.com/abhinav.api/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/notsoabhinav/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/NotSoAbhinavx" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/abhinav.api/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
 </div>
 
 ---
