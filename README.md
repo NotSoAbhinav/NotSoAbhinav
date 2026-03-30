@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&timeout=20000" />
+<img src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" width="32%" />
 
-<img height="160" src="https://streak-stats.demolab.com?user=notsoabhinav&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img src="https://streak-stats.demolab.com?user=notsoabhinav&theme=tokyonight&hide_border=true&cache_seconds=86400" width="32%" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400&timeout=20000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" width="32%" />
 
 </div>
 
