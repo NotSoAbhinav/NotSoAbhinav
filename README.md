@@ -4,18 +4,13 @@
 ---
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&show_icons=true&theme=tokyonight&hide_border=true" width="80%" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=notsoabhinav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<br><br>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=notsoabhinav&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=notsoabhinav&theme=tokyonight&hide_border=true" width="80%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&layout=compact&theme=tokyonight&hide_border=true" width="80%" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notsoabhinav&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 <h3 align="center">💻 Tech Stack</h3>
